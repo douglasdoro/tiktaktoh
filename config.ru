@@ -1,3 +1,3 @@
-require 'tictactoe.rb'
+load 'tictactoe.rb'
 
 run Sinatra::Application
